@@ -1,0 +1,9 @@
+let massa = 78
+let altura = 1.80
+let IMC = 0
+
+IMC = (massa/(altura^2))
+
+console.log ("Eu peso " + massa + " Kg")
+console.log ("Eu tenho " + altura + " metros")
+console.log ("Meu IMC é " + IMC)
